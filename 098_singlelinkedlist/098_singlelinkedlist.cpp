@@ -90,6 +90,10 @@ bool listEmpty() {
 
 }
 
+void traverse() {
+
+}
+
 
 
 
