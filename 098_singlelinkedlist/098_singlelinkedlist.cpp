@@ -113,6 +113,9 @@ void searchData() {
 		system("cls");
 		return;
 	}
+	else {
+		int nim;
+	}
 }
 
 
