@@ -146,7 +146,12 @@ int main() {
 			switch (pilihan)
 			{
 			case 1:
-				add
+				addNode();
+				cout << "Data Berhasil Ditambahkan" << endl;
+				system("pause");
+				system("cls");
+				break;
+			case 2: 
 			}
 
 		}
